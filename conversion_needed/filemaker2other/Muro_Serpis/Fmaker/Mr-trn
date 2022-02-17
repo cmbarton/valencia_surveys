@@ -1,0 +1,1 @@
+!table!version 300!charset MacRomanDefinition Table  Type DBF Charset "MacRoman"  Fields 3    Subsector Char (10) Index 1 ;    Trunc_ascl Decimal (3, 0) ;    Trunc_lam Decimal (3, 0) ;

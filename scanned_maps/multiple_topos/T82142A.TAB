@@ -1,0 +1,21 @@
+!table
+!version 300
+!charset WindowsLatin1
+
+Definition Table
+  File "82142a.tif"
+  Type "RASTER"
+  (738000,4297000) (500,290) Label "Pt 1",
+  (738000,4296000) (487,887) Label "Pt 2",
+  (738000,4295000) (474,1486) Label "Pt 3",
+  (739000,4295000) (1071,1500) Label "Pt 4",
+  (740000,4295000) (1667,1514) Label "Pt 5",
+  (741000,4295000) (2260,1528) Label "Pt 6",
+  (741000,4296000) (2274,932) Label "Pt 7",
+  (741000,4297000) (2286,336) Label "Pt 8",
+  (740000,4297000) (1693,320) Label "Pt 9",
+  (739000,4297000) (1097,305) Label "Pt 10"
+  CoordSys Earth Projection 8, 28, "m", -3, 0, 0.9996, 500000, 0
+  Units "m"
+  RasterStyle 1 80
+  RasterStyle 2 90

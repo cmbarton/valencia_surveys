@@ -1,0 +1,1 @@
+!table!version 300!charset MacRomanDefinition Table  Type NATIVE Charset "MacRoman"  Fields 3    Sector Char (7) ;    Ssector Char (10) Index 1 ;    Desitat_li Decimal (8, 0) ;

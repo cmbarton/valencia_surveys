@@ -1,0 +1,17 @@
+!table
+!version 300
+!charset WindowsLatin1
+
+Definition Table
+  File "79614a.tif"
+  Type "RASTER"
+  (745000,4306000) (368,413) Label "Pt 1",
+  (746000,4306000) (766,426) Label "Pt 2",
+  (747000,4306000) (1162,438) Label "Pt 3",
+  (748000,4306000) (1559,450) Label "Pt 4",
+  (748000,4305000) (1547,844) Label "Pt 5",
+  (747000,4305000) (1150,833) Label "Pt 6",
+  (746000,4305000) (755,821) Label "Pt 7",
+  (745000,4305000) (357,809) Label "Pt 8"
+  CoordSys Earth Projection 8, 28, "m", -3, 0, 0.9996, 500000, 0
+  Units "m"

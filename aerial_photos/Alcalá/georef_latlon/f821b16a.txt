@@ -1,0 +1,14 @@
+!table
+!version 300
+!charset WindowsLatin1
+
+Definition Table
+  File "f821b16a.PICT"
+  Type "RASTER"
+  (738664.2,4297533.94) (577,1662) Label "Pt 1",
+  (738557.66,4297730.66) (514,1512) Label "Pt 2",
+  (738716.11,4298421.79) (642,1035) Label "Pt 3",
+  (738341.45,4298540.89) (384,936) Label "Pt 4",
+  (738307.17,4298566.01) (352,917) Label "Pt 5"
+  CoordSys Earth Projection 8, 28, "m", -3, 0, 0.9996, 500000, 0
+  Units "m"

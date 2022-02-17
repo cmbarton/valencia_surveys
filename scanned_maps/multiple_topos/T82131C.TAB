@@ -1,0 +1,18 @@
+!table
+!version 300
+!charset WindowsLatin1
+
+Definition Table
+  File "82131c.tif"
+  Type "RASTER"
+  (730000,4299000) (98,376) Label "Pt 1",
+  (731000,4299000) (495,385) Label "Pt 2",
+  (732000,4299000) (892,395) Label "Pt 3",
+  (733000,4299000) (1290,404) Label "Pt 4",
+  (733000,4298000) (1280,800) Label "Pt 5",
+  (732000,4298000) (882,791) Label "Pt 6",
+  (731000,4298000) (485,783) Label "Pt 7",
+  (730000,4298000) (88,773) Label "Pt 8",
+  (733000,4300000) (1299,10) Label "Pt 9"
+  CoordSys Earth Projection 8, 28, "m", -3, 0, 0.9996, 500000, 0
+  Units "m"

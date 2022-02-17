@@ -1,0 +1,1 @@
+!table!version 300!charset MacRomanDefinition Table  File "P.P.dbf"  Type DBF Charset "MacRoman"  Fields 2    Ssector Char (9) Index 1 ;    No Decimal (3, 0) ;

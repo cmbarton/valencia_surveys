@@ -1,0 +1,1 @@
+!table!version 300!charset MacRomanDefinition Table  File "D_822-3-2"  Type "RASTER"  (761000,4297000) (621,1220) Label "Pt 1",  (762000,4297000) (2992,1292) Label "Pt 2",  (762000,4296000) (2938,3688) Label "Pt 3",  (761000,4296000) (567,3611) Label "Pt 4"  CoordSys Earth Projection 8, 28, "m", -3, 0, 0.9996, 500000, 0  Units "m"
