@@ -1,3 +1,4 @@
+region,area,sector,subsector,recorder,date,description,vegetation,,visibility,artifacts,?,?,?,structures,notes
 Alcalˆ,1,14,1,AD,12/10/93,Terraza erosionada con suelo gris claro y grava fina subangular.Algunos silex naturales,frutales,,excelente 40%,no,no,no,no,no,
 Alcalˆ,1,14,2,CMB,12/10/93,Terraza marr—n claro. Erosionada. Silex natural,frutales,,excelente 30%,si,si,no,no,no,
 Alcalˆ,1,14,3,CMB,12/10/93,Terraza marr—n claro. Erosionada. Silex natural. 1/3 al Oeste est‡ menos erosionada,frutales,,excelente 100%,si,no,no,no,no,
@@ -25,7 +26,7 @@ Alcalˆ,1,23,4,CMB,,Terraza con suelo marron claro y fracci—n de redondeada a ang
 Alcalˆ,1,23,5,CMB,,Terraza erosionada con suelo marron - gris claro,frutales,,excelente 75%,si,no,no,no,no,
 Alcalˆ,1,26,1,CMB,,"Terraza intacta con erosi—n en algunos lugares. Suelos marrones, de claro a medio, y fracci—n media (caliza)",frutales,,excelente 100%,si,si,si,no,no,
 Alcalˆ,1,26,2,CMB,13/10/93,"Terraza muy intacta con baja densidad de fracci—n media. Zanja, acequia  o foso a lo largo del margen superior",frutales,,excelente 100%,si,no,si,no,no,
-Alcalˆ,1,26,3,CMB,,Terraza. Erosionada hasta las margas en la parte superior oeste; transici—n hacia suelos marrones de medio a oscuro en el resto,labrado,,buena 50%,si,si,si,no,no,
+Alcalˆ,1,26,3,CMB,,Terraza. Erosionada hasta las margas en la parte superior oeste, transici—n hacia suelos marrones de medio a oscuro en el resto,labrado,,buena 50%,si,si,si,no,no
 Alcalˆ,1,26,4,AD,,"Terraza semi-erosionada. Los suelos var’an de gris a marr—n-rojizo, con fracci—n de angular a subangular",frutales,,Buena 30%,si,no,no,no,no,
 Alcalˆ,1,26,5,AD,,Terraza erosionada con suelo mar—n - gris y fracci—n,frutales,,excelente 60%,si,no,no,no,no,
 Alcalˆ,2,10,1,CMB,12/10/93,Terraza con suelo marr—n claro y fracci—n fina. Probablemente la misma que el sector 1 (Pleistoceno Superior/Holoceno),frutales,,excelente 100%,si,no,no,no,no,
