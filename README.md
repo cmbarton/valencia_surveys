@@ -32,10 +32,10 @@ Miller, A., & Barton, C. M. (2008). Exploring the land: A comparison of land-use
 This dataset includes:
 - Analyses of artifacts collected in pedestrian surveys (csv format files)
 - GIS vector data of areas surveyed, sampling strata, and collection units (ESRI shape files)
-- Scanned topographic maps that were digitized and georeferenced to used in analyses, accompanied by information for georeferencing (standard graphic formats)
-- Other scanned maps used to contextualize the survey, some accompanied by information for georeferencing (standard graphic formats)
-- Scanned, rectified aerial photos (from 1950s or 1960s) that were used to identify and digitize collection unit fields, accompanied by information for georeferencing (standard graphic formats)
-- Rasters of surface erosion in one of the valleys (Polop Alto) used to weight artifact densities and account for artifact loss due to surface processes, accompanied by information for georeferencing (standard graphic formats)
+- Scanned topographic maps that were digitized and georeferenced to used in analyses, accompanied by information for georeferencing (tif graphic formats)
+- Other scanned maps used to contextualize the survey, accompanied by information for georeferencing (jpeg and tif graphic formats)
+- Scanned, rectified aerial photos (from 1950s or 1960s) that were used to identify and digitize collection unit fields, accompanied by information for georeferencing (jpeg and png graphic formats)
+- Image masks of surface erosion in one of the valleys (Polop Alto), processed from aerial photos, used to weight artifact densities and account for artifact loss due to surface processes, accompanied by information for georeferencing (png and tif graphic formats)
 - Metadata to help users understand the data fields and data codes used in the analyses
 - Results of analyses of the impact of surface visibility on artifact collections, and results of recollection of a sample of collection units to assess variability in visibility and densities of surface materials in agricultural fields
 
