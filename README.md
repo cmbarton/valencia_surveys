@@ -2,12 +2,12 @@
  
 Dataset from archaeological surveys in northern Alicante Province, Pais Valenciano, Spain 1990-2004. Collaborative research by Arizona State University, USA, and Universitat de València, Spain, with support from the Museu Arqueològic of Alcoi. The research was funded by the US National Science Foundation (grants BNS-9115209 and SBR-9904050), the Generalitat de Valencia, and Arizona State University. The surveys took place in a series of valley in the vicinity of the city of Alcoi: 
 
-- Polop Alto, 
-- middle R. Serpis, 
-- R. Penaguila, 
-- Val de Alcalá, 
-- Val de Gallinera, and 
-- Gorgos valley. 
+- Polop Alto
+- middle R. Serpis
+- R. Penaguila
+- Val de Alcalá
+- Val de Gallinera
+- Gorgos valley
 
 This survey used a stratified, random sampling design, with complete collection of surface artifacts in collection units. Collection units were terraced agricultural fields. All survey areas and collection units were digitized and georeferenced into GIS formats, and all artifact collections were linked with the GIS data for analyses. 
 
@@ -33,7 +33,7 @@ This dataset includes:
 - Analyses of artifacts collected in pedestrian surveys (csv format files)
 - GIS vector data of areas surveyed, sampling strata, and collection units (ESRI shape files)
 - Scanned topographic maps that were digitized and georeferenced to used in analyses, accompanied by information for georeferencing (standard graphic formats)
-- Other scanned maps used to contextualize the survey
+- Other scanned maps used to contextualize the survey, some accompanied by information for georeferencing (standard graphic formats)
 - Scanned, rectified aerial photos (from 1950s or 1960s) that were used to identify and digitize collection unit fields, accompanied by information for georeferencing (standard graphic formats)
 - Rasters of surface erosion in one of the valleys (Polop Alto) used to weight artifact densities and account for artifact loss due to surface processes, accompanied by information for georeferencing (standard graphic formats)
 - Metadata to help users understand the data fields and data codes used in the analyses
