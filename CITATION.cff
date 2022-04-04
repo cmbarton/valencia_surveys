@@ -30,29 +30,3 @@ version: 1.0
 doi: 
 date-released: 
 url: "https://github.com/cmbarton/valencia_surveys"
-preferred-citation:
-  type: article
-  authors:
-  - family-names: "Barton"
-    given-names: "C Michael"
-    orcid: "http://orcid.org/0000-0003-2561-1927"
-  - family-names: "Bernabeu Auban"
-    given-names: "Joan"
-    orcid: "0000-0002-5742-8708"
-  - family-names: "Garcia Puchol"
-    given-names: "Oreto"
-    orcid: "0000-0001-9716-6039"
-  - family-names: "Schmich"
-    given-names: "Steven"
-  - family-names: "Molina Balaguer"
-    given-names: "Lluís"
-    orcid: "0000-0003-1392-2023"
-  doi: "10.1023/B:JARM.0000047315.57162.b7"
-  journal: "Journal of Archaeological Method and Theory"
-  start: 253
-  end: 295
-  title: "Long-term socioecology and contingent landscapes"
-  issue: 3
-  volume: 11
-  year: 2004
-
