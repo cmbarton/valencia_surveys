@@ -13,7 +13,7 @@ This survey used a stratified, random sampling design, with complete collection 
 
 Details of the survey methods and analysis are described in the following papers, and especially the ones starred with an asterisk. Please cite these works as appropriate when using the dataset here. 
 
-*Barton, C. M., Bernabeu Aubán, J., Aura Tortosa, J. E., & Garcia Puchol, O. (1999). Landscape dynamics and socioeconomic change: An example from the Polop Alto valley. American Antiquity, 64(4), 609–634.
+*Barton, C. M., Bernabeu Aubán, J., Aura Tortosa, J. E., & Garcia Puchol, O. (1999). Landscape dynamics and socioeconomic change: An example from the Polop Alto valley. American Antiquity, 64(4), 609–634. https://doi.org/10.2307/2694208
 
 *Bernabeu Aubán, J., Barton, C. M., Garcia Puchol, O., & La Roca, N. (1999). Prospecciones sistemáticas en el valle del Alcoi (Alicante): Primeros resultados. Arqueología Espacial, 21, 29–64.
 
