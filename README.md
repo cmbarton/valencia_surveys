@@ -19,7 +19,7 @@ Details of the survey methods and analysis are described in the following papers
 
 *Bernabeu, J., Barton, C. M., Garcia Puchol, O., & La Roca, N. (2000). Systematic survey in Alicante, Spain: First results. Türkyie Bilimer Akademisi Arkeoloji Dergisi, 3, 57–86.
 
-*Barton, C. M., Bernabeu Aubán, J., Aura Tortosa, J. E., Garcia Puchol, O., & La Roca, N. (2002). Dynamic landscapes, artifact taphonomy, and landuse modeling in the western Mediterranean. Geoarchaeology, 17(2), 155–190.
+*Barton, C. M., Bernabeu Aubán, J., Aura Tortosa, J. E., Garcia Puchol, O., & La Roca, N. (2002). Dynamic landscapes, artifact taphonomy, and landuse modeling in the western Mediterranean. Geoarchaeology, 17(2), 155–190. https://doi.org/10.1002/gea.10008
 
 Barton, C. M., Bernabeu Aubán, J., Aura Tortosa, J. E., & Molina Balaguer, L. (2004). Historical contingency, nonlinearity, and the neolithization of the western Mediterranean. In L. Wandsnider & E. Athanassopoulos (Eds.), Current Issues in Mediterranean Landscape Archaeology (pp. 99–124). University of Pennsylvania Press.
 
