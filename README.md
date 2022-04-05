@@ -25,7 +25,7 @@ Barton, C. M., Bernabeu Aubán, J., Aura Tortosa, J. E., & Molina Balaguer, L. (
 
 *Barton, C. M., Bernabeu Auban, J., Garcia Puchol, O., Schmich, S., & Molina Balaguer, L. (2004). Long-term socioecology and contingent landscapes. Journal of Archaeological Method and Theory, 11(3), 253–295. https://doi.org/10.1023/B:JARM.0000047315.57162.b7
 
-Diez Castillo, A., Barton, C. M., La Roca Cervigón, N., & Bernabeu Aubán, J. (2008). Landscape socioecology in the Serpis Valley (10000-4000 BP). In A. Posluschny, K. Lambers, & I. Herzog (Eds.), Layers of Perception: Proceedings of the 35th CAA Conference, Berlin, April 2007. Dr.Rudolf Habel GmbH. Kolloquien zur Vor- und Fruhgeschichte, Vol. 10.
+Diez Castillo, A., Barton, C. M., La Roca Cervigón, N., & Bernabeu Aubán, J. (2008). Landscape socioecology in the Serpis Valley (10000-4000 BP). In A. Posluschny, K. Lambers, & I. Herzog (Eds.), Layers of Perception: Proceedings of the 35th CAA Conference, Berlin, April 2007. Dr.Rudolf Habel GmbH. Kolloquien zur Vor- und Fruhgeschichte, Vol. 10. http://hdl.handle.net/10550/58295
 
 Miller, A., & Barton, C. M. (2008). Exploring the land: A comparison of land-use patterns in the Middle and Upper Paleolithic of the western Mediterranean. Journal of Archaeological Science, 35, 1427–1437. https://doi.org/10.1016/j.jas.2007.10.007
 
