@@ -3,10 +3,10 @@
 Dataset from archaeological surveys in northern Alicante Province, Pais Valenciano, Spain 1990-2004. Collaborative research by Arizona State University, USA, and Universitat de València, Spain, with support from the Museu Arqueològic of Alcoi. The research was funded by the US National Science Foundation (grants BNS-9115209 and SBR-9904050), the Generalitat de Valencia, and Arizona State University. The surveys took place in a series of valley in the vicinity of the city of Alcoi: 
 
 - Polop Alto
-- middle R. Serpis
-- R. Penaguila
-- Val de Alcalá
-- Val de Gallinera
+- Middle Riu Serpis
+- Riu Penaguila
+- Vall de Alcalá
+- Vall de Gallinera
 - Gorgos valley
 
 This survey used a stratified, random sampling design, with complete collection of surface artifacts in collection units. Collection units were terraced agricultural fields. All survey areas and collection units were digitized and georeferenced into GIS formats, and all artifact collections were linked with the GIS data for analyses. 
@@ -15,11 +15,11 @@ Details of the survey methods and analysis are described in the following papers
 
 *Barton, C. M., Bernabeu Aubán, J., Aura Tortosa, J. E., & Garcia Puchol, O. (1999). Landscape dynamics and socioeconomic change: An example from the Polop Alto valley. American Antiquity, 64(4), 609–634.
 
-*Bernabeu Aubán, J., Barton, C. M., Garcia, O., & La Roca, N. (1999). Prospecciones sistemáticas en el valle del Alcoi (Alicante): Primeros resultados. Arqueología Espacial, 21, 29–64.
+*Bernabeu Aubán, J., Barton, C. M., Garcia Puchol, O., & La Roca, N. (1999). Prospecciones sistemáticas en el valle del Alcoi (Alicante): Primeros resultados. Arqueología Espacial, 21, 29–64.
 
-*Bernabeu, J., Barton, C. M., Garcia, O., & La Roca, N. (2000). Systematic survey in Alicante, Spain: First results. Türkyie Bilimer Akademisi Arkeoloji Dergisi, 3, 57–86.
+*Bernabeu, J., Barton, C. M., Garcia Puchol, O., & La Roca, N. (2000). Systematic survey in Alicante, Spain: First results. Türkyie Bilimer Akademisi Arkeoloji Dergisi, 3, 57–86.
 
-*Barton, C. M., Bernabeu Aubán, J., Aura Tortosa, J. E., Garcia, O., & La Roca, N. (2002). Dynamic landscapes, artifact taphonomy, and landuse modeling in the western Mediterranean. Geoarchaeology, 17(2), 155–190.
+*Barton, C. M., Bernabeu Aubán, J., Aura Tortosa, J. E., Garcia Puchol, O., & La Roca, N. (2002). Dynamic landscapes, artifact taphonomy, and landuse modeling in the western Mediterranean. Geoarchaeology, 17(2), 155–190.
 
 Barton, C. M., Bernabeu Aubán, J., Aura Tortosa, J. E., & Molina Balaguer, L. (2004). Historical contingency, nonlinearity, and the neolithization of the western Mediterranean. In L. Wandsnider & E. Athanassopoulos (Eds.), Current Issues in Mediterranean Landscape Archaeology (pp. 99–124). University of Pennsylvania Press.
 
