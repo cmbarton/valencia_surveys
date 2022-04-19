@@ -1,0 +1,174 @@
+SECTOR,SUBSECTOR,ALTURA,VISIBILIDA,X_LITICOS,CERAMICAS_,X_CERAMICA,OTROS,ESTRUCTURA,YACIMIENTO
+10,bp-10-1,,4,si,si,no,no,no,AC-86=AC-45
+10,bp-10-10,,4,si,no,si,no,no,AC-86=AC-45
+10,bp-10-11,,4,si,no,si,no,no,AC-86=AC-45
+10,bp-10-2,,4,no,no,no,no,no,AC-86=AC-45
+10,bp-10-3,,4,no,no,si,no,no,AC-86=AC-45
+10,bp-10-4,,4,si,no,no,no,no,AC-86=AC-45
+10,bp-10-5,,4,no,no,si,no,no,AC-86=AC-45
+10,bp-10-6,,4,si,no,no,no,no,AC-86=AC-45
+10,bp-10-7,,4,si,no,si,no,no,AC-86=AC-45
+10,bp-10-8,,4,no,no,si,no,no,AC-86=AC-45
+10,bp-10-9,,4,no,no,no,no,no,AC-86=AC-45
+11,bp-11-1,,4,si,no,no,no,no,AC-42
+11,bp-11-1,,4,si,no,no,no,no,AC-42
+11,bp-11-5,,4,si,si,si,no,no,AC-42
+11,bp-11-7,,4,si,no,si,no,no,AC-42
+11,bp-11-8,,3,si (any 90),si (any 90),si (any 90),no,no,AC-87
+11,bp-11-9,,4,si (any 90),si (any 90),si(any90),no,no,AC-87
+12,bp-12-1,,5,si,no,si,no,no,AC-91
+12,bp-12-10,,4,no,no,no,no,no,AC-91
+12,bp-12-11,,4,no,no,si,no,no,AC-91
+12,bp-12-12,,4,no,no,no,no,no,AC-91
+12,bp-12-13,,3,no,no,no,no,no,AC-91
+12,bp-12-14,,3,no,no,si,no,no,AC-91
+12,bp-12-2,,2,si,no,si,no,no,AC-91
+12,bp-12-3,,4,no,no,no,no,no,AC-91
+12,bp-12-4,,3,no,no,no,no,no,AC-91
+12,bp-12-5,,2,si,no,si,no,no,AC-91
+12,bp-12-6,,4,no,no,no,no,no,AC-91
+12,bp-12-7,,2,no,no,si,no,no,AC-91
+12,bp-12-8,,4,no,no,no,no,no,AC-91
+12,bp-12-9,,0,no,no,no,no,no,AC-91
+2,bp-2-1/2,,2,si,no,no,no,no,AC-17
+2,bp-2-10,,1,si,no,no,no,no,AC-17
+2,bp-2-11,,0,no,no,no,no,no,AC-17
+2,bp-2-12,,2,no,no,no,no,no,AC-17
+2,bp-2-13,,2,si,no,no,"si, p.p.",no,
+2,bp-2-14,,0,no,no,no,no,no,
+2,bp-2-15,,4,si,si,si ibero-romana,no,no,
+2,bp-2-16,,3,si,no,si (rodada),no,no,
+2,bp-2-17,,4,si,no,si,no,no,
+2,bp-2-18,,4,si,si,no,no,no,
+2,bp-2-19,,4,si,no,si (fenicia?),no,no,
+2,bp-2-20,,3,si,no,si,no,no,
+2,bp-2-21,,4,si,no,no,no,no,
+2,bp-2-22,,4,si,si,si,no,no,
+2,bp-2-23,,4,si,si,si,"si, concha",no,
+2,bp-2-23,,4,si,si,no,no,no,
+2,bp-2-24,,4,si,no,no,no,no,
+2,bp-2-24,,0,no,no,no,no,no,
+2,bp-2-25,,2,no,no,no,no,no,
+2,bp-2-26,,4,si,no,no,no,no,
+2,bp-2-27,,4,si,no,si,no,no,
+2,bp-2-28,,4,si,no,si,no,no,
+2,bp-2-3,,1,no,no,no,no,no,AC-17
+2,bp-2-31,,0,no,no,no,no,no,
+2,bp-2-32,,4,si,no,si,no,no,
+2,bp-2-33,,2,no,si,si,no,no,
+2,bp-2-34,,4,si,si,si,no,no,
+2,bp-2-35,,4,si,si,si,no,no,
+2,bp-2-35,,4,si,si,si,no,no,
+2,bp-2-36,,4,si,si,si,no,no,
+2,bp-2-37,,4,si,si,si,no,no,
+2,bp-2-4,,3,si,si,si,no,no,AC-17
+2,bp-2-5,,4,si,si,si,no,no,AC-17
+2,bp-2-6,,3,si,no,si,no,no,AC-17
+2,bp-2-7/9,,3,si,si,si,si,no,AC-17
+3,bp-3-1,,4,si,si,no,,,AC-36
+3,bp-3-10,,3,si,si,si,,,
+3,bp-3-11,,0,no,no,no,no,no,
+3,bp-3-12,,0,no,no,no,no,no,
+3,bp-3-13,,0,no,no,no,no,no,
+3,bp-3-14,,2,si,si,no,,,
+3,bp-3-15,,4,si,si,no,,,
+3,bp-3-16,,4,si,si,no,,,AC-36
+3,bp-3-17,,4,si,si,no,,,AC-36
+3,bp-3-18-19,,0,no,no,no,no,no,
+3,bp-3-2,,2,si,si,,,,AC-36
+3,bp-3-20,,3,no,no,no,no,no,
+3,bp-3-23,,2,no,no,no,no,no,
+3,bp-3-24,,3,si,no,si,,,
+3,bp-3-25,,2,no,no,no,no,no,
+3,bp-3-26,,3,no,no,si,,,
+3,bp-3-27,,2,no,no,si,,,
+3,bp-3-28,,4,si,si,si,,,
+3,bp-3-28,,4,si,?,si,,,
+3,bp-3-29,,4,si,si,si,,,
+3,bp-3-3,,4,si,si,,,,AC-36
+3,bp-3-30,,4,si,si,si,,,AC-76
+3,bp-3-32,,2,si,no,si,no,no,AC-90
+3,bp-3-33,,4,si,no,si,no,no,AC-90 ?
+3,bp-3-34,,4,si,no,si,no,no,AC-90
+3,bp-3-34,,4,si,no,si,no,no,AC-90
+3,bp-3-34,,0,no,no,no,no,no,AC-90
+3,bp-3-35,,0,no,no,no,no,no,AC-90
+3,bp-3-36,,2,no,no,no,no,no,AC-90
+3,bp-3-37,,3,no,no,no,no,no,AC-90
+3,bp-3-38,,0,no,no,no,no,no,AC-90
+3,bp-3-39,,0,no,no,no,no,no,AC-90
+3,bp-3-4,,4,si,si,no,,,AC-36
+3,bp-3-40,,0,no,no,no,no,no,AC-90
+3,bp-3-41,,0,no,no,no,no,no,AC-90
+3,bp-3-42,,2,si,si,si,,,AC-36
+3,bp-3-5/7,,4,si,si,si,,,AC-36*
+3,bp-3-8,,2,no,no,no,,,
+3,bp-3-9,,4,si,no,no,,,
+4,bp-4-1,,2,no,no,no,no,no,AC-44
+4,bp-4-10,,2,no,no,no,no,no,AC-44
+4,bp-4-11,,2,no,si,no,no,no,AC-44
+4,bp-4-12,,2,no,no,no,no,no,AC-44
+4,bp-4-13,,2,si,no,no,no,no,AC-44
+4,bp-4-14,,2,si,si,?,no,no,AC-85
+4,bp-4-15,,4,si,si,?,no,no,AC-85
+4,bp-4-16,,4,si,si,si,no,no,AC-85
+4,bp-4-18-17,,4,si,si,no,no,no,AC-85
+4,bp-4-19,,4,si,si,si,no,no,AC-85
+4,bp-4-2,,2,no,no,no,no,no,AC-44
+4,bp-4-20,,4,si,si,si,no,no,AC-85 Mas Blanch
+4,bp-4-21,,4,si,si,si,no,no,AC-85 Mas Blanch
+4,bp-4-22,,1,no,no,no,no,no,AC-85 Mas Blanch
+4,bp-4-23,,4,no,si,si,no,"habian tumbas romanas, excavadas por Visedo",AC-85 Mas Blanch
+4,bp-4-24,,4,no,si,si,"si, una moneda","habian tumbas romanas, excavadas por Visedo",AC-85 Mas Blanch
+4,bp-4-25,,4,no,si,si,no,"habian tumbas romanas, excavadas por Visedo",AC-85 Mas Blanch
+4,bp-4-26,,4,no,si,si,no,"habian tumbas romanas, excavadas por Visedo",AC-85 Mas Blanch
+4,bp-4-27,,4,no,si,si,no,"habian tumbas romanas, excavadas por Visedo",AC-85 Mas Blanch
+4,bp-4-28,,4,si,si,no,no,no,AC-85
+4,bp-4-29,,4,si,si,no,no,no,AC-85
+4,bp-4-3,,2,no,no,no,no,no,AC-44
+4,bp-4-30,,3,si,si,no,no,no,AC-85
+4,bp-4-31,,4,si,si?,?,no,no,AC-85
+4,bp-4-32,,4,si,no,no,no,no,AC-85
+4,bp-4-4,,2,no,no,no,no,no,AC-44
+4,bp-4-5,,2,no,no,no,no,no,AC-44
+4,bp-4-6,,2,no,no,no,no,no,AC-44
+4,bp-4-7,,2,si,si,no,no,no,AC-44
+4,bp-4-8,,3,si,si,no,no,no,AC-44
+4,bp-4-9,,3,si,si,no,no,no,AC-44
+6,bp-6-1,,5,si,si,no,si P.P,no,AC-88
+6,bp-6-10,,4,si,si,si,no,no,AC-88
+6,bp-6-11,,4,si,si,si,no,no,
+6,bp-6-2,,5,si,si,si,si P.P.,no,AC-88
+6,bp-6-3,,5,si,si,si,no,no,AC-88
+6,bp-6-4,,5,si,si,si,no,no,AC-88
+6,bp-6-5,,5,si,si,si,no,no,AC-88
+6,bp-6-6,,4,si,si,no,si P.P.,no,AC-88
+6,bp-6-7,,4,si,si,si,si. molins,no,AC-88
+6,bp-6-8,,4,si,si,no,no,no,AC-88
+6,bp-6-9,,4,si,no,si,no,no,AC-88
+8,bp-8-1,,4,si,no,si,no,no,AC-89
+8,bp-8-10,,4,no,si,si,no,no,AC-89
+8,bp-8-11,,4,no,si,si,no,no,AC-89
+8,bp-8-13,,4,si,si,si,no,no,AC-89
+8,bp-8-14,,4,no,si,si,no,no,AC-89
+8,bp-8-15,,4,no,no,no,no,no,AC-89
+8,bp-8-16,,4,no,si,si,no,no,AC-89
+8,bp-8-19,,4,si,no,si,no,no,AC-89
+8,bp-8-2,,4,no,no,si,no,no,AC-89
+8,bp-8-20,,4,no,si,no,no,no,AC-89
+8,bp-8-22,,4,si,si,no,no,no,AC-89
+8,bp-8-3,,4,no,no,si,no,no,AC-89
+8,bp-8-4,,4,si,si,no,no,no,AC-89
+8,bp-8-5,,4,si,si,si,no,no,AC-89
+8,bp-8-6,,4,no,si,si,no,no,AC-89
+8,bp-8-7,,4,si,si,si,no,no,AC-89
+8,bp-8-8,,4,si,si,si,no,no,AC-89
+8,bp-8-9,,4,si,si,no,no,no,AC-89
+9,bp-9-1,,4,si,si,no,no,no,AC-39
+9,bp-9-2,,4,si,no,si,no,no,AC-39
+9,bp-9-3,,4,si,no,si,no,no,AC-39
+9,bp-9-4,,4,si,no,si,no,no,AC-39
+9,bp-9-5,,4,si,no,si,no,no,AC-39
+9,bp-9-6,,4,no,no,si,no,no,AC-39
+9,bp-9-7,,4,no,no,si,no,no,AC-39
+9,bp-9-8,,2,no,no,no,no,no,AC-39
