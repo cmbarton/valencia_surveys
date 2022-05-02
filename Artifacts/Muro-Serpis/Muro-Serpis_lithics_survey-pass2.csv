@@ -1,4 +1,4 @@
-SSECTOR,YACIMIENTO,TOTAL_LITH,UP_TYPES,MP_TYPES,"FLKS,",BLDS,BLTS,FLKCORES,BLDCORES,RETFLKS,GEO,B_B_MRET,B_B_INRET,MBURIN,BACKEDPC,DRILLS,"BACKEDPT,",PROPT,"REJUV,",CHKS,DNTSCKL,PASADA2
+subsector,site,total_lithics,UPaleo_types,MPaleo_types,flakes,blades,bladelets,flake_cores,blade_cores,retouched_flakes,geometric,backed_bladelet_marg_ret,backed_bladelet_invasive_ret,microburins,backed_pieces,drills,backed_points,projectile_points,core_rejuvination,chunks,denticulated_sickle_blades,survey_pass_2
 Desconocido,,433,5,6,,16,20,12,5,5,1,3,,2,1,,,,,229,1,431
 XI-3-10,AC-69,51,1,1,,2,1,1,,1,,,,,,,,1,,34,1,9
 XI-9-3,AC-67,3,,,,,,,,,,,,,,,,,,3,,

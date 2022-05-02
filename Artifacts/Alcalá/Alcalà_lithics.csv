@@ -1,4 +1,4 @@
-REGION,SECTOR,SUBSECTOR,RODADO,MECANIC,TEC__CLASS,FRACTURA,TAMANY,CORTEX,TALO,SECC__LAM,TIPUS,R__MODUS,LUSTRE,TOTAL,COMENTARI,PASADA_2_
+region,sector,subsector,abraded,edge_damage,technological_class,completeness,size_class,cortex,platform_type,blade_section,retouched_tool_type,retouch_mode,sheen,count,notes,survey_pass
 A1,A1-14,A1-14-10,1,2,3,1,3,0,2,,14,S,1,1,P. FUSELL,NO
 A1,A1-14,A1-14-10,1,2,12,1,3,0,,,,,1,1,,NO
 A1,A1-14,A1-14-10,1,1,3,2,2,0,2,,,,1,1,,NO

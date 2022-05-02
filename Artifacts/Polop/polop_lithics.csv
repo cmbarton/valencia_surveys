@@ -1,4 +1,4 @@
-NUM_BOLSA,FECHA,REGION,AREA,SECTOR,SUBSECTOR,YACIMIENTO,RODADO,MECANICO,CLAS_TECN_,FRACTURA,TAMANO,CORTEX,TALON,SEC_HOJ_,TIPO,RET_MODO,LUSTRE,COUNT,LONGITUD,ANCHURA,GROSOR,NOTES,MICRO,R,PSDA
+bag_number,date,region,stratum,sector,subsector,site,abraded,edge_damage,technological_class,completeness,size_class,cortex,platform_type,blade_section,retouched_tool_type,retouch_mode,sheen,count,length,width,thickness,notes,micro,total,survey_pass
 13,10/15/1991,POLOP,-,-,-,AC-112 Ibi Road,2,-,6,-,3,-,-,-,,-,-,3,0,0,0,1,,4415,1
 13,10/15/1991,POLOP,-,-,-,AC-112 Ibi Road,2,-,6,-,2,-,-,-,,-,-,10,0,0,0,1,,4415,1
 13,10/15/1991,POLOP,-,-,-,AC-112 Ibi Road,2,-,6,-,1,-,-,-,,-,-,8,0,0,0,1,,4415,1

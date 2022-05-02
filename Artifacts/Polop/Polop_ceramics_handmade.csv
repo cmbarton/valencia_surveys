@@ -1,4 +1,4 @@
-REGION,AREA,SECTOR,SSECTOR,PROV,SITE,COUNT,EROS,LABIO,BORDE,CUELLO,GALBO,BASE,PRENSION,DEC_1,DEC_2,DEC_3,FECHA,PSDA,MICRO
+region,stratum,sector,subsector,prov,site,count,eroded,lip,rim,neck,shape,base,handle,decoration_1,decoration_2,decoration_3,date,survey_pass,micro
 Polop,NB,NB-11,NB-11-1,NB-11-1,AC-107,7,0,0,0,0,1,0,0,,,,12/10/1995,4,b
 Polop,SB,SB-3,SB-3-3,SB-3-3,AC-101,1,0,51,0,0,0,0,0,,,,07/12/1991,2,corte sur
 Polop,SB,SB-3,SB-3-1,SB-3-1,AC-101,1,0,0,0,0,1,0,0,7,,,21/10/91,1,e

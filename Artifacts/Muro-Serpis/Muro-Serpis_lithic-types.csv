@@ -1,4 +1,4 @@
-SSECTOR,MICROBURIL,RAEDERA,DENTICULAT,RASPADOR,BURIL,PERFORADOR,TRUNCADURA,DORSO,GEOMETRICS,TRAPEZI,"TRIANGLE,N,1,0","RECTANGLE,N,1,0",SEGMENT,"PUNTA_DE_D,N,1,0","TALADRE,N,1,0",PUNTA_DE_F,PECA_RETOC,HRET,HINV,NCL_ASC,NCL_LAM,LLIURA_MAN,PEDRA_POLI
+subsector,microburins,side_scrapers,denticulates,end_scrapers,burins,perforators,truncations,backed_pieces,geometric_microliths,trapeze_microliths,triangle_microliths,rectangle_microliths,lunate_microliths,backed_points,drills,projectile_points,retouched_flakes,retouched_blades,inverse_ret_blades,flake_cores,blade_cores,livre de burre cores,groundstone
 XI-3-10,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1
 XI-9-5,,,,,,,1,,,,,,,,,,,1,,,,,
 XIII-21-6,,,,,,,,,,,,,,,,,1,,,1,,,
