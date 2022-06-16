@@ -1,4 +1,4 @@
-SECTOR,SUBSECTOR,ALTURA,VISIBILIDA,X_LITICOS,CERAMICAS_,X_CERAMICA,OTROS,ESTRUCTURA,YACIMIENTO
+sector,subsector,elevation,visibility_code,lithics,ceramics_handmade,ceramics_wheelmade,other_artifacts,structures,site_number
 10,bp-10-1,,4,si,si,no,no,no,AC-86=AC-45
 10,bp-10-10,,4,si,no,si,no,no,AC-86=AC-45
 10,bp-10-11,,4,si,no,si,no,no,AC-86=AC-45
