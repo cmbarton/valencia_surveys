@@ -30,14 +30,14 @@ Diez Castillo, A., Barton, C. M., La Roca Cervigón, N., & Bernabeu Aubán, J. (
 Miller, A., & Barton, C. M. (2008). Exploring the land: A comparison of land-use patterns in the Middle and Upper Paleolithic of the western Mediterranean. Journal of Archaeological Science, 35, 1427–1437. https://doi.org/10.1016/j.jas.2007.10.007
 
 This dataset includes:
-- Analyses of artifacts collected in pedestrian surveys (csv format files)
-- GIS vector data of areas surveyed, sampling strata, and collection units (ESRI shape files)
-- Scanned topographic maps that were digitized and georeferenced to used in analyses, accompanied by information for georeferencing (tif graphic formats)
-- Other scanned maps used to contextualize the survey, accompanied by information for georeferencing (jpeg and tif graphic formats)
-- Scanned, rectified aerial photos (from 1950s or 1960s) that were used to identify and digitize collection unit fields, accompanied by information for georeferencing (jpeg and png graphic formats)
-- Image masks of surface erosion in one of the valleys (Polop Alto), processed from aerial photos, used to weight artifact densities and account for artifact loss due to surface processes, accompanied by information for georeferencing (png and tif graphic formats)
-- Metadata to help users understand the data fields and data codes used in the analyses
-- Results of analyses of the impact of surface visibility on artifact collections, and results of recollection of a sample of collection units to assess variability in visibility and densities of surface materials in agricultural fields
+- Analyses of artifacts collected in pedestrian surveys (csv format files).
+- GIS vector data of areas surveyed, sampling strata, and collection units (ESRI shape files).
+- Scanned topographic maps that were digitized and georeferenced to used in analyses (tif graphic formats), accompanied by textual information for georeferencing.
+- Other scanned maps used to contextualize the survey (jpeg and tif graphic formats), accompanied by textual information for georeferencing.
+- Scanned, rectified aerial photos (from 1950s or 1960s) that were used to identify and digitize collection unit fields (jpeg and png graphic formats), accompanied by textual information for georeferencing. 
+- Image masks of surface erosion in one of the valleys (Polop Alto), processed from aerial photos, used to weight artifact densities and account for artifact loss due to surface processes (png and tif graphic formats), accompanied by textual information for georeferencing. Additional information on this erosion analysis is available in metadata folder and in the Barton et al 2002 paper.  
+- Metadata to help users understand the data fields and data codes used in the analyses.
+- Results of analyses of the impact of surface visibility on artifact collections, and results of recollection of a sample of collection units to assess variability in visibility and densities of surface materials in agricultural fields.
 
 Note that all data field names have been translated into English (from multiple original languages). A translation of field names and codes in English, Spanish, and Valenciano is provided in the metadata section. 
 
