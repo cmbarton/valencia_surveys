@@ -1,0 +1,72 @@
+CALCULATING TEMPORAL INDEX AND SETTLLEMENT INTENSITY INDEX FOR REGIONAL LAND USE ANALYSISTEMPORAL INDEX CALCULATIONS FOR ALL SURVEY AREAS
+MP_TI = If(MP types > 0 and UP types + BLADE TECH + ceramic density + LN TOOLS + N TOOLS = 0, 0.9, 
+If(MP types > 0 and BACKED TOOLS + ceramic density + LN TOOLS + N TOOLS + EN TOOLS = 0, 0.7, 
+If(MP types > 0 and ceramic density < 75, 0.5, 
+If(MP types + FLAKE TECH > 0, 0.3, 
+If(total lithics > 0, 0.1, 
+0)))))UP_TI = If(UP types > 0 and BLADE TECH > 0  and (BACKED TOOLS + ceramic density + EN TOOLS + LN TOOLS + N TOOLS = 0), 0.9, 
+If((UP types + BLADE TECH >  0) and (BACKED TOOLS + ceramic density + LN TOOLS + N TOOLS + EN TOOLS = 0), 0.7, 
+If((UP types + BLADE TECH > 0) and ceramic density < 75, 0.5, 
+If(UP types + BLADE TECH > 0, 0.3, 
+If(total lithics > 0, 0.1, 
+0)))))LUP_TI = If(BACKED TOOLS > 0 and ceramic density + EN TOOLS + LN TOOLS + N TOOLS = 0, 0.9, 
+If(BACKED TOOLS > 0 and ceramic density < 75, 0.7, 
+If((BACKED TOOLS + BLADE TECH > 0) and ceramic density < 75, 0.5, 
+If(BACKED TOOLS + BLADE TECH > 0, 0.3, 
+If(total lithics > 0, 0.1, 
+0)))))EN_TI = If(BACKED TOOLS > 0  and (ceramic density > 0 or EN TOOLS > 0) and LN TOOLS = 0, 0.9, 
+If((N TOOLS + ceramic density + groundstone > 0) and LN TOOLS = 0, 0.7, 
+If(BACKED TOOLS + ceramic density > 0, 0.5, 
+If(BLADE TECH > 0, 0.3, 
+If(total lithics + ceramic density + groundstone > 0, 0.1, 
+0)))))LN_TI = If(LN TOOLS > 0, 0.9, 
+If((groundstone + ceramic density > 0) and BACKED TOOLS and EN TOOLS = 0, 0.7, 
+If(N TOOLS + ceramic density + groundstone > 0, 0.5, 
+If(BLADE TECH > 0, 0.3, 
+If(total lithics + groundstone + ceramic density > 0, 0.1, 
+0)))))SETTLEMENT WEIGHT CALCULATIONS - PENAGUILA EXAMPLE
+Settlement weight (Settl_wt) = artifact density for each collection unit ranked in percentiles (0, 0.10, 0.25, 0.50, 0.75, 0.90, 1.00) according to all units in a survey areaSETTLEMENT_WT = If(artifact density ≥ 429.2, 1.00, 
+If(artifact density ≥ 166.1, 0.90, 
+If(artifact density ≥ 78.1, 0.75, 
+If(artifact density ≥ 39.1, 0.50, 
+If(artifact density ≥ 20.4, 0.25, 
+If(artifact density > 6.3, 0.10, 
+0))))))SETTLEMENT INTENSITY INDEX CALCULATIONS
+Temporal Index multiplied by settlement weight for each unit
+MP_SII = MP_TI * Settlement_wtUP_SII = UP_TI * Settlement_wtLUP_SII = LUP_TI * Settlement_wtNEOL1_SII = NEOL1_TI * Settlement_wtNEOL2_SII = NEOL2_TI * Settlement_wtSETTLEMENT INTENSITY INDEX PERCENTILE CALCULATIONS - PENAGUILA EXAMPLE
+MP_SII_ntile = If(MP_SII ≥ .45, 90, 
+If(MP_SII ≥ .2925, 75, 
+If(MP_SII ≥ .075, 50, 
+If(MP_SII ≥ .05, 25, 
+If(MP_SII ≥ .025, 10, 
+If(MP_SII > 0, 1, 
+0))))))UP_SII_ntile = 
+If(UP_SII ≥ .525, 90, 
+If(UP_SII ≥ .45, 75, 
+If(UP_SII ≥ .075, 50, 
+If(UP_SII ≥ .05, 25, 
+If(UP_SII ≥ .025, 10, 
+If(UP_SII > 0, 1, 
+0))))))LUP_SII_ntile = If(LUP_SII ≥ .525, 90, 
+If(LUP_SII ≥ .45, 75, 
+If(LUP_SII ≥ .25, 50, 
+If(LUP_SII ≥ .05, 25, 
+If(LUP_SII ≥ .025, 10, 
+If(LUP_SII > 0, 1, 
+0))))))NEOL1_SII_ntile = If(Neol1_SII ≥ .525, 90, 
+If(Neol1_SII ≥ .35, 75, 
+If(Neol1_SII ≥ .225, 50, 
+If(Neol1_SII ≥ .05, 25, 
+If(Neol1_SII ≥ .025, 10, 
+If(Neol1_SII > 0, 1, 
+0))))))NEOL2_SII_ntile = If(Neol2_SII ≥ .81,90, 
+If(Neol2_SII ≥ .3625, 75, 
+If(Neol2_SII ≥ .225, 50, 
+If(Neol2_SII ≥ .05, 25, 
+If(Neol2_SII ≥ .025, 10, 
+If(Neol2_SII > 0, 1, 
+0))))))
+
+LN TOOLS = Late Neolithic tools:  bifacial projectile points and denticulated sickle blades. The latter also occurs in Bronze Age contexts, but is only found in association with other Neolithic artifacts in our collections for the Polop. Hence it is used as a marker for the Late Neolithic.N TOOLS = generic Neolithic tools: plain (undenticulated) sickle blades and bifacial drills (taladros)
+
+BACKED TOOLS: backed bladelets, backed points, and geometric microliths.UP types = Upper Paleolithic tools: endscrapers, burins, truncations, and perforators.MP types = Middle Paleolithic tools: sidescrapers (including transverse and déjéte scrapers), notches/denticulates, and Mousterian points.BLADE TECH = prismatic blade technology: besides prismatic blades, evidence for blade technology includes crest blades, blade cores, and blade core face and platform rejuvenation flakes.
