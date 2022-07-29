@@ -39,7 +39,9 @@ This dataset includes:
 - Metadata to help users understand the data fields and data codes used in the analyses.
 - Results of analyses of the impact of surface visibility on artifact collections, and results of recollection of a sample of collection units to assess variability in visibility and densities of surface materials in agricultural fields.
 
-Note that all data field names have been translated into English (from multiple original languages). A translation of field names and codes in English, Spanish, and Valenciano is provided in the metadata section. 
+Note that all data field names have been translated into English (from multiple original languages). Translations of field names and codes between English, Español, and Valencià are provided in the metadata section. 
+
+Image of the Polop Alto Valley, Alicante, Spain, 1991 (c) C Michael Barton 2022
 
 Although we have tried to make these data as useful as possible, all data are provided as is, with no guarantees express or implied. You are welcome to contact Michael Barton (michael.barton@asu.edu) or other data authors if you have questions, and we will try to respond in a timely way if possible. 
 
